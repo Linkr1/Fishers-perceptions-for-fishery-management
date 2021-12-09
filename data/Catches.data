@@ -1,0 +1,8 @@
+---
+category: data
+filename: Catches.txt
+weight: 1
+title: Temporal changes in catch sizes
+description: Recollected catch sizes for a number of species, with associated information.
+type: text/csv
+---
