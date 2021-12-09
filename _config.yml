@@ -1,5 +1,5 @@
-title: Temporal changes in catch sizes
-description: This dataseat feature catch volumes recollected by Sainte-Marie fishermen, along with years, fisher IDs, and fishing gear.
+title: Temporal changes in catch sizes and catch site distances; site-level and individual-level predictors of support for fishery restrictions. 
+description: The catches.txt dataset features catch volumes recollected by Sainte-Marie fishermen along with associated information for the GAM. The Dist.txt dataset features fishing site distances and associated information for the GLM. Mada_MFA includes site- and individual-level predictors for the MFA. 
 
 publisher_text: PLOS ONE
 publisher_url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259792
